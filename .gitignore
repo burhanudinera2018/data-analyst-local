@@ -1,0 +1,58 @@
+# Environment
+dataanalyst_env/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.pyc
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Data files (jangan upload data mentah ke public repo)
+data/raw/*.csv
+data/processed/*.csv
+!data/processed/*.md
+data/*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Database credentials (jangan pernah commit file dengan password)
+sql/credentials.sql

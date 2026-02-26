@@ -208,7 +208,7 @@ Dengan sistem ini, organisasi dapat:
 
 # 👨‍💻 Author
 
-**Burhanudin Era**
+**Burhanudin Badiuzaman**
 Data Analyst | AI Engineer (Aspirant) | Local LLM Enthusiast
 
 🔗 [https://github.com/burhanudinera2018/data-analyst-local](https://github.com/burhanudinera2018/data-analyst-local)
